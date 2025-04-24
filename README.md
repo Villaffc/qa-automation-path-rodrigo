@@ -1,7 +1,7 @@
 
 # 🚀 Ruta de Formación QA - Rodrigo Villarroel Calderón
 
-Este repositorio contiene una **ruta estructurada para aprender y enseñar QA (Quality Assurance)**, orientada a testers manuales y automatizadores que quieran desarrollar sus habilidades paso a paso. Incluye teoría, buenas prácticas y ejemplos prácticos en Java, Selenium y más.
+Este repositorio contiene una **ruta estructurada para aprender QA (Quality Assurance)**, orientada a testers manuales y automatizadores que quieran desarrollar sus habilidades paso a paso. Incluye teoría, buenas prácticas y ejemplos prácticos en Java, Selenium y más.
 
 ## 🧠 ¿Qué vas a aprender?
 
