@@ -1,0 +1,2 @@
+ID | Caso de Prueba | Resultado Esperado
+1 | Verificar login con datos válidos | Usuario es redirigido al dashboard
